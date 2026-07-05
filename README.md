@@ -45,7 +45,6 @@ Late deliveries and inefficient fulfillment processes directly impact customer s
 
 ## 🔄 Project Workflow
 
-```text
 Raw Dataset (180,519 Records)
         ↓
 Data Cleaning & Preprocessing (Python)
@@ -57,7 +56,6 @@ Business Analysis (SQL)
 Interactive Dashboard (Power BI)
         ↓
 Insights & Recommendations
-```
 
 ---
 
