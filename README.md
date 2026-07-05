@@ -1,4 +1,4 @@
-# 📦 Order Fulfillment Performance Analysis
+# 📦 Order Fulfillment Analysis
 
 > An end-to-end data analytics project that analyzes a real-world e-commerce supply chain dataset using **Python, SQL, and Power BI** to evaluate order fulfillment performance, delivery efficiency, sales trends, and profitability across global markets.
 
@@ -45,17 +45,27 @@ Late deliveries and inefficient fulfillment processes directly impact customer s
 
 ## 🔄 Project Workflow
 
-Raw Dataset (180,519 Records)
-        ↓
-Data Cleaning & Preprocessing (Python)
-        ↓
-Exploratory Data Analysis (EDA)
-        ↓
-Business Analysis (SQL)
-        ↓
-Interactive Dashboard (Power BI)
-        ↓
-Insights & Recommendations
+**Raw Dataset** (180,519 Records)
+
+⬇️
+
+**Data Cleaning & Preprocessing (Python)**
+
+⬇️
+
+**Exploratory Data Analysis (EDA)**
+
+⬇️
+
+**Business Analysis (SQL)**
+
+⬇️
+
+**Interactive Dashboard (Power BI)**
+
+⬇️
+
+**Insights & Recommendations**
 
 ---
 
